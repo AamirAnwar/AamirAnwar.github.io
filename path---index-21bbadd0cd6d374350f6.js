@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{502:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Source: Unsplash So in the winter of 2017 I started out with a plan to hit the refresh button after developing for iOS for more than a year…",fields:{slug:"/winter-of-17/"},frontmatter:{date:"01 December, 2017",title:"Winter of 17"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-21bbadd0cd6d374350f6.js.map
