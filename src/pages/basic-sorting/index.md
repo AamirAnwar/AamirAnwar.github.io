@@ -9,3 +9,5 @@ Basic sorting algorithms
 - Selection sort
 - Merge sort
 - Quick sort
+
+Quick sort runs in O(n*log(n)) 
