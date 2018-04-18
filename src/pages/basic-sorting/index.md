@@ -1,5 +1,5 @@
 ---
-title: Basic Sorting
+title: All about sorting
 date: "2018-04-16T16:25:03.284Z"
 ---
 ## Sorting
@@ -10,4 +10,5 @@ Basic sorting algorithms
 - Merge sort
 - Quick sort
 
-Quick sort runs in O(n*log(n)) 
+Linear time sorting algorithms
+- Counting Sort
