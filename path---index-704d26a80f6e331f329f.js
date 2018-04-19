@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{502:function(e,t){e.exports={data:{site:{siteMetadata:{title:"The Developer Times"}},allMarkdownRemark:{edges:[{node:{excerpt:"Source: Unsplash So in the winter of 2017 I started out with a plan to hit the refresh button after developing for iOS for more than a year…",fields:{slug:"/winter-of-17/"},frontmatter:{date:"01 December, 2017",title:"Winter of 17"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-704d26a80f6e331f329f.js.map
